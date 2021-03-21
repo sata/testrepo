@@ -9,3 +9,10 @@ It should be primarly using functions (targets) from the build pkg for
 keeping consistency over our services.
 
 
+## Usage
+Install mage with `go get -u github.com/magefile/mage`
+
+`mage -l`
+
+`mage build`
+
