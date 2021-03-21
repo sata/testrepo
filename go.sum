@@ -1,0 +1,4 @@
+github.com/magefile/mage v1.11.0 h1:C/55Ywp9BpgVVclD3lRnSYCwXTYxmSppIgLeDYlNuls=
+github.com/magefile/mage v1.11.0/go.mod h1:z5UZb/iS3GoOSn0JgWuiw7dxlurVYTu+/jHXqQg881A=
+github.com/sata/build v0.0.0-20210321183036-59c04aee2fe2 h1:0G38GKlq9dFb2nNiRD6zkev6Okk8k9Nrw2l5kqQUv4Q=
+github.com/sata/build v0.0.0-20210321183036-59c04aee2fe2/go.mod h1:IttTioe3ObCML4H6vzO+LaQidt79D5M9cLM85wAkrnw=
